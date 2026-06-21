@@ -3,7 +3,7 @@
 A dark, atmospheric text-based RPG quest developed in Python. The game challenges players to explore a mysterious old mansion, manage an inventory, and crack a secret password based on a song lyric.
 
 ![Game Preview](screenshot.jpg)
-*Replace 'screenshot.png' with the actual image file name uploaded to your repository*
+*Replace 'screenshot.jpg' with the actual image file name uploaded to your repository*
 
 ## 🌟 Features
 * **Deep Atmosphere**: Immerse yourself in a rainy autumn vibe with eerie rooms.
